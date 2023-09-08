@@ -1,7 +1,8 @@
 # Basic-Shoes-Billing-System-Using-Python
 Shoes Billing System using Python for School/College Projects.
-<img width="700" alt="Main Menu" src="https://github.com/harshnagar/Basic-Shoes-Billing-System-Using-Python/assets/35253819/9c786cdc-81b9-4390-9a09-d18c44b16cca">
+
 Features:
+<img width="700" alt="Main Menu" src="https://github.com/harshnagar/Basic-Shoes-Billing-System-Using-Python/assets/35253819/9c786cdc-81b9-4390-9a09-d18c44b16cca">
 
 1) List all Available Shoes.
 <img width="676" alt="Products List" src="https://github.com/harshnagar/Basic-Shoes-Billing-System-Using-Python/assets/35253819/78d108e0-f0ac-498c-a272-e0098dc56b44">
