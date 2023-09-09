@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------------------
+-Shoe Name                                 -       Shoe Code        -           Shoe Price(₹) 
+---------------------------------------------------------------------------------------------
+-Adidas Men's Running Shoe                 -           1            -             5999     -
+-Adidas Men's Roazer M Running Shoe        -           2            -             8999     -
+-Adidas Men's Steady M Running Shoe        -           3            -             6999     -
+-Adidas Men's Glarus M Running Shoe        -           4            -             4999     -
+-Adidas Women's Adi Chic W Running Shoe    -           5            -             3900     -
+-Adidas Women's Contem X W Running Shoe    -           6            -             4500     -
+-Adidas Women's Glarus W Running SHoe      -           7            -             3300     -
+-Adidas Women's Court Bold Shoe            -           8            -             6700     -
+-Puma Men's Rapid Runner IDP Shoes         -           9            -             8000     -
+-Puma Flyer Flex                           -          10            -             7000     -
+-Puma Dryflyer IDP                         -          11            -             7800     -
+-Puma Men's Jaunt IDP Running Shoes        -          12            -             5000     -
+-Puma Women's Adelina CLosed Shoe          -          13            -             4000     -
+-Puma Women's Stacy Slip on wn S IDP       -          14            -             6700     -
+-Puma Women's PAcer Wn s IDP Sneaker       -          15            -             5500     -
+-Knoos Men's Loafer                        -          16            -             1500     -
+-Knoos Men's Velvet Loafer                 -          17            -             1800     -
+-Yahe Women's Bellies                      -          18            -             1200     -
+-Fentacia Men's Loafer                     -          19            -             1900     -
+-Shoemonkies Suede Leather Men's Loafer    -          20            -             2500     -
+--------------------------------------------------------------------------------------------
